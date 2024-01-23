@@ -1,4 +1,4 @@
-This project would help one to keep password for any platform, by generating random passwords which you can easily copy and paste whereever you need to !
+This project aims to address the common challenge of managing and securing passwords across various online platforms. The primary functionality revolves around the generation of random passwords and providing a user-friendly interface for users. 
 
 **Tech Stack** 
 <p>
