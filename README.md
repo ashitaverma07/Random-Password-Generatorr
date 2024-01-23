@@ -2,8 +2,8 @@ This project would help one to keep password for any platform, by generating ran
 
 **Tech Stack** 
 <p>
-1.JavaScript
-2. HTML
-3. CSS
+1.JavaScript <br>
+2. HTML <br>
+3. CSS <br>
 </p>
 
